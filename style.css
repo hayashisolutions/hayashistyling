@@ -1,0 +1,43 @@
+/* Center the h1 element */
+h1{
+    text-align:left;
+    font-family:system-ui;
+    line-height:20px;
+}
+
+/* Set the font size of the paragraphs to 24px and use a yellow background. */
+.pagetext {
+    font-size: 21px;
+    background-color: black;
+    color:white;
+    font-family:system-ui;
+    line-height:50px;
+}
+
+.headerlink {
+    font-family:system-ui;
+    color:white;
+    font-size:24px;
+    background-color:black;
+    line-height:40px;
+    display:list-item;
+}
+
+nav {
+    background-color: black;
+    color:white;
+    font-size: 30px;
+    font-family:system-ui;
+    display:list-item;
+}
+
+footer {
+    background-color: black;
+    color:white;
+    font-size: 24px;
+    font-family:system-ui;
+}
+
+body {
+    background-color:brown;
+}
